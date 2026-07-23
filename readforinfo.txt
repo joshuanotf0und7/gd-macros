@@ -1,0 +1,2 @@
+Hello! You're probaly here because you want macros for levels in GD. Most of these are going to be a .re4 macro file, so I suggest using the mod on geode called GDH by TobyAdd, or at this website: "https://geode-sdk.org/mods/tobyadd.gdh"
+For each level there is a macro of, I will be sure to put the id in the description of the file so you can copy and paste that into GD! Anyways, have fun botting GD.
